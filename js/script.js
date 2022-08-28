@@ -13,7 +13,6 @@ const dotContainers = stateElement.querySelectorAll('.dots-container');
 
 let ancientNode;
 let levelNode;
-
 let ancient;
 let level;
 let deck;
